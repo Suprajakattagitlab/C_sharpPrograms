@@ -1,0 +1,15 @@
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.exe
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.deps.json
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.runtimeconfig.json
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.dll
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.pdb
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.csproj.AssemblyReference.cache
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.AssemblyInfoInputs.cache
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.AssemblyInfo.cs
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.dll
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\refint\ArrayProgram.dll
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.pdb
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.genruntimeconfig.cache
+C:\Users\katt_sup\C Sharp Programs\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ref\ArrayProgram.dll

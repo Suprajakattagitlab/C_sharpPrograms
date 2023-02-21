@@ -1,0 +1,15 @@
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\bin\Debug\net6.0\StringPrograms.exe
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\bin\Debug\net6.0\StringPrograms.deps.json
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\bin\Debug\net6.0\StringPrograms.runtimeconfig.json
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\bin\Debug\net6.0\StringPrograms.dll
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\bin\Debug\net6.0\StringPrograms.pdb
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\StringPrograms.csproj.AssemblyReference.cache
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\StringPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\StringPrograms.AssemblyInfoInputs.cache
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\StringPrograms.AssemblyInfo.cs
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\StringPrograms.csproj.CoreCompileInputs.cache
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\StringPrograms.dll
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\refint\StringPrograms.dll
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\StringPrograms.pdb
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\StringPrograms.genruntimeconfig.cache
+C:\Users\katt_sup\C Sharp Programs\StringPrograms\StringPrograms\obj\Debug\net6.0\ref\StringPrograms.dll
