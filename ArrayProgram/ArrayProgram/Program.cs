@@ -14,7 +14,7 @@ namespace ArrayProgram
             if (s.CheckSubsetofArray())
                 Console.WriteLine("Array 2 is the subset of the 1st array");
             else
-               Console.WriteLine("Array 2 is not the subset of the 1st Array");
+                Console.WriteLine("Array 2 is not the subset of the 1st Array");
             
         }
     }
