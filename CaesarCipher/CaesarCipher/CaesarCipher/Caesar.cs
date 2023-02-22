@@ -27,11 +27,7 @@ namespace CaesarCipher
            // int shift = 0;
             for (int j = 0; j < s.Length; j++)
             {
-                // Console.WriteLine(data1['A']);
-                // int shift = (data1[s[j]] + i) % 26;
-                //  Console.WriteLine(data[shift]);
-                //Console.WriteLine($"{data[shift]}\t");
-                //  
+               
                 var r=(s[j] - 65 + i) % 26;
                 Console.Write(Convert.ToChar(r + 65));
 
